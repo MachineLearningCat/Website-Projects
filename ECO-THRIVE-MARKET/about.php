@@ -37,14 +37,14 @@ if(!isset($user_id)){
 
       <div class="box">
          <img src="images/about-img-1.png" alt="">
-         <h3>why choose us?</h3>
+         <h3 style="color:white">why choose us?</h3>
          <p>Choose us for a wide selection of organic products, better for your health and the environment..</p>
          <a href="contact.php" class="btn">contact us</a>
       </div>
 
       <div class="box">
          <img src="images/about-img-2.png" alt="">
-         <h3>what we provide?</h3>
+         <h3 style="color:white">what we provide?</h3>
          <p>We support local farmers by sourcing our organic products from nearby farms and small businesses. This ensures freshness and supports the local economy..</p>
          <a href="shop.php" class="btn">our shop</a>
       </div>
