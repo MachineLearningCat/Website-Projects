@@ -20,9 +20,9 @@
 
       <div class="box">
          <h3>contact info</h3>
-         <p> <i class="fas fa-phone"></i> +1234567890 </p>
-         <p> <i class="fas fa-mobile"></i> +9876543210 </p>
-         <p> <i class="fas fa-envelope"></i> abcxyz@gmail.com </p>
+         <p> <i class="fas fa-phone"></i> +6302611489 </p>
+         <p> <i class="fas fa-mobile"></i> +9392428977 </p>
+         <p> <i class="fas fa-envelope"></i> ecothrivemarkets@gmail.com </p>
          <p> <i class="fas fa-map-marker-alt"></i> Tirupati </p>
       </div>
 
